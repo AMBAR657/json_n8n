@@ -124,7 +124,7 @@
             },
             {
               "name": "chat_id",
-              "value": "={{ $node['Extraer Parámetros'].json.chat_id }}"
+              "value": "={{ $node['Se extraen los Parámetros'].json.chat_id }}"
             },
             {
               "name": "analysis_type",
