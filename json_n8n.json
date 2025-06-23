@@ -1,7 +1,4 @@
-{
-  "name": "My workflow 2",
-  "nodes": [
-    {
+
       "parameters": {
         "httpMethod": "POST",
         "path": "mri-upload",
