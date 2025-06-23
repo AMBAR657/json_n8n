@@ -48,7 +48,7 @@
           "string": [
             {
               "value1": "={{ $json.analysis_type }}",
-              "value2": "tumor"
+              "value2": "este es el tumor"
             }
           ]
         }
