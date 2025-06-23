@@ -128,7 +128,7 @@
             },
             {
               "name": "analysis_type",
-              "value": "tumor"
+              "value": "Es el tumor"
             },
             {
               "name": "mri_report_url",
